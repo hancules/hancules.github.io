@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhihan Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate at Institute of Science Tokyo"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Institute of Science Tokyo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cao.z.c8a7@m.isct.ac.jp\\hahaancules@gmail.com" 
 
   # Academic websites
   academia         : # URL
