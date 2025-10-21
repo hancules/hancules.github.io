@@ -27,7 +27,7 @@ author:
   name             : "Zhihan Cao"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Institute of Science Tokyo"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : "Institute of Science Tokyo"
   uri              : # URL
   email            : "cao.z.c8a7@m.isct.ac.jp\\hahaancules@gmail.com" 
