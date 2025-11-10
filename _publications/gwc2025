@@ -1,0 +1,23 @@
+---
+title: "Misalignment of Semantic Relation Knowledge between WordNet and Human Intuition"
+collection: publications
+category: manuscripts
+permalink: /publications/gwc2025
+date: 2025-01-28
+paperurl: 'https://aclanthology.org/2025.gwc-1.4'
+venue: 'Proceedings of the 13th Global Wordnet Conference'
+citation: 'Zhihan Cao, Hiroaki Yamada, Simone Teufel, and Takenobu Tokunaga. 2025. "Misalignment of Semantic Relation Knowledge between WordNet and Human Intuition." <i>Proceedings of the 13th Global Wordnet Conference</i>.'
+---
+
+<!-- 
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+-->
+
+Abstract
+=======
+WordNet provides a carefully constructed repository of semantic relations, created by specialists. But there is another source of information on semantic relations, the intuition of language users. 
+We present the first systematic study of the degree to which these two sources are aligned. 
+Investigating the cases of misalignment could make proper use of WordNet and facilitate its improvement. 
+Our analysis which uses templates to elicit responses from human participants, reveals a general misalignment of semantic relation knowledge between WordNet and human intuition. 
+Further analyses find a systematic pattern of mismatch among synonymy and taxonomic relations (hypernymy and hyponymy), together with the fact that WordNet path length does not serve as a reliable indicator of human intuition regarding hypernymy or hyponymy relations.
+[Download the paper here](https://aclanthology.org/2025.gwc-1.4.pdf)
